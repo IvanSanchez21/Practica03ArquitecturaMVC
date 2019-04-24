@@ -4,10 +4,10 @@ import ec.edu.ups.clases.Avestruz;
 import ec.edu.ups.clases.Leon;
 import ec.edu.ups.clases.Pulpo;
 import ec.edu.ups.clases.Tiburon;
-import ec.edu.ups.controlador.ControladorAvestruz;
-import ec.edu.ups.controlador.ControladorLeon;
-import ec.edu.ups.controlador.ControladorPulpo;
-import ec.edu.ups.controlador.ControladorTiburon;
+import ec.edu.ups.controladores.ControladorAvestruz;
+import ec.edu.ups.controladores.ControladorLeon;
+import ec.edu.ups.controladores.ControladorPulpo;
+import ec.edu.ups.controladores.ControladorTiburon;
 import java.util.Scanner;
 
 /**

@@ -1,5 +1,5 @@
 
-package ec.edu.ups.controlador;
+package ec.edu.ups.controladores;
 
 import ec.edu.ups.clases.Pulpo;
 import java.util.Map;

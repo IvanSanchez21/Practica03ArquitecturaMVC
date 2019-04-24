@@ -1,5 +1,5 @@
 
-package ec.edu.ups.controlador;
+package ec.edu.ups.controladores;
 
 import ec.edu.ups.clases.Tiburon;
 import java.util.ArrayList;
