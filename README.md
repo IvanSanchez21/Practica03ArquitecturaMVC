@@ -7,7 +7,7 @@ Modelo, Vista, Controlador
 
 ![1](https://user-images.githubusercontent.com/49045265/56741712-ffdcca00-6738-11e9-8838-015ff64bd83d.png)
 
-#COMMITS
+*COMMITS
 
 ![1 2](https://user-images.githubusercontent.com/49045265/56741899-58ac6280-6739-11e9-86b1-f874400feb59.png)
 
