@@ -47,8 +47,8 @@ Modelo, Vista, Controlador
 
 ![8 2](https://user-images.githubusercontent.com/49045265/56742803-0b30f500-673b-11e9-9df2-4d6a4116b779.png)
 
-PRUEBA DE ESCRITORIO
----------------------
+* PRUEBA DE ESCRITORIO
+
 
 ![8 3](https://user-images.githubusercontent.com/49045265/56742918-416e7480-673b-11e9-8564-92ff6275490c.png)
 
