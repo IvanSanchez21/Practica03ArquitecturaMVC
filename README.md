@@ -54,20 +54,20 @@ Modelo, Vista, Controlador
 
 ![8 4](https://user-images.githubusercontent.com/49045265/56743037-74186d00-673b-11e9-9023-f77404916e4b.png)
 
-Read
--------
+* Read
+
 
 ![8 5](https://user-images.githubusercontent.com/49045265/56743153-a88c2900-673b-11e9-8a9a-75d1c8305efe.png)
 
-Update
---------
+* Update
+
 
 ![8 6](https://user-images.githubusercontent.com/49045265/56743225-cf4a5f80-673b-11e9-9ffc-d4fcb0f30848.png)
 
 ![8 7](https://user-images.githubusercontent.com/49045265/56743247-db362180-673b-11e9-9f34-30160c87dab0.png)
 
-Delete
---------
+* Delete
+
 
 ![8 8](https://user-images.githubusercontent.com/49045265/56743349-03be1b80-673c-11e9-9ab4-81cecc98f8a0.png)
 
