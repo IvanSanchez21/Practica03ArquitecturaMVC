@@ -2,7 +2,7 @@
 
 Modelo, Vista, Controlador
 
-#1.	Crear un repositorio en GitHub con el nombre “Práctica 03 – Arquitectura MVC”
+* 1.	Crear un repositorio en GitHub con el nombre “Práctica 03 – Arquitectura MVC”
 
 ![1](https://user-images.githubusercontent.com/49045265/56741712-ffdcca00-6738-11e9-8838-015ff64bd83d.png)
 
