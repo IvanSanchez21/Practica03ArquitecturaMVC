@@ -52,6 +52,8 @@ Modelo, Vista, Controlador
 
 ![8 3](https://user-images.githubusercontent.com/49045265/56742918-416e7480-673b-11e9-8564-92ff6275490c.png)
 
+* Create
+
 ![8 4](https://user-images.githubusercontent.com/49045265/56743037-74186d00-673b-11e9-9023-f77404916e4b.png)
 
 * Read
